@@ -6,6 +6,7 @@ This dataset provides a comprehensive view of students enrolled in various under
 </br>
 </br>
 Link Here: [Student-Dataset](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention/data)
+Research Source: [Journal-Article](https://www.mdpi.com/2306-5729/7/11/146)
 
 #### 2. Data Definitions
 
