@@ -1,0 +1,36 @@
+Column,Data Type,Association Type,Association Result,Impact
+Marital status,Categorical,Cramer's V,0.11918927039599453,Medium
+Application mode,Categorical,Cramer's V,0.31198894601989463,High
+Application order,Ordinal,Rank-biserial,-0.000142,Low
+Course,Categorical,Cramer's V,0.34017907368984207,High
+Daytime/evening attendance,Categorical,Cramer's V,0.08449593574263191,Low
+Previous qualification,Categorical,Cramer's V,0.18988185875508884,Medium
+Nacionality,Categorical,Cramer's V,0.006181262165854321,Low
+Mother's qualification,Categorical,Cramer's V,0.06120973641474526,Low
+Father's qualification,Categorical,Cramer's V,0.13849402499493665,Medium
+Mother's occupation,Categorical,Cramer's V,0.17283385982884375,Medium
+Father's occupation,Categorical,Cramer's V,0.14686000287946432,Medium
+Displaced,Binary,Phi Coefficient,0.12554587768448083,Medium
+Educational special needs,Binary,Phi Coefficient,0.004550290226766291,Low
+Debtor,Binary,Phi Coefficient,0.26631844573202856,Medium
+Tuition fees up to date,Binary,Phi Coefficient,0.44130882808136723,High
+Gender,Categorical,Cramer's V,0.2519548119534263,High
+Scholarship holder,Binary,Phi Coefficient,0.3123796967759407,High
+Age at enrollment,Numerical-discrete,Point Biserial,0.26722938316332767,Medium
+International,Binary,Phi Coefficient,0.00432565666948886,Low
+Curricular units 1st sem (credited),Numerical-discrete,Point Biserial,-0.04690001650294741,Low
+Curricular units 1st sem (enrolled),Numerical-discrete,Point Biserial,-0.16107351638894085,Medium
+Curricular units 1st sem (evaluations),Numerical-discrete,Point Biserial,-0.05978625949022859,Low
+Curricular units 1st sem (approved),Numerical-discrete,Point Biserial,-0.5548808565333647,High
+Curricular units 1st sem (grade),Continuous,Point Biserial,-0.5199270935327849,High
+Curricular units 1st sem (without evaluations),Numerical-discrete,Point Biserial,0.07464226018538087,Low
+Curricular units 2nd sem (credited),Numerical-discrete,Point Biserial,-0.05240197115911739,Low
+Curricular units 2nd sem (enrolled),Numerical-discrete,Point Biserial,-0.18289654087432994,Medium
+Curricular units 2nd sem (evaluations),Numerical-discrete,Point Biserial,-0.11923876678097181,Low
+Curricular units 2nd sem (approved),Numerical-discrete,Point Biserial,-0.6539952460991513,High
+Curricular units 2nd sem (grade),Continuous,Point Biserial,-0.6053501259230006,High
+Curricular units 2nd sem (without evaluations),Numerical-discrete,Point Biserial,0.10268682857663433,Low
+Unemployment rate,Continuous,Point Biserial,-0.004198105226525962,Low
+Inflation rate,Continuous,Point Biserial,0.030325865974636518,Low
+GDP,Continuous,Point Biserial,-0.05026014681836055,Low
+Target,Binary,,,
