@@ -6,7 +6,7 @@ Course,Categorical,Cramer's V,0.34017907368984207,High
 Daytime/evening attendance,Categorical,Cramer's V,0.08449593574263191,Low
 Previous qualification,Categorical,Cramer's V,0.18988185875508884,Medium
 Nacionality,Categorical,Cramer's V,0.006181262165854321,Low
-Mother's qualification,Categorical,Cramer's V,0.06120973641474526,Low
+Mother's qualification,Categorical,Cramer's V,0.05396585391446142,Low
 Father's qualification,Categorical,Cramer's V,0.13849402499493665,Medium
 Mother's occupation,Categorical,Cramer's V,0.17283385982884375,Medium
 Father's occupation,Categorical,Cramer's V,0.14686000287946432,Medium
