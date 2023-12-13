@@ -1,6 +1,6 @@
 # Student Dropout Prediction
 
-#### Logistic Regression Reveals Factors that Increase or Decrease Outcomes.
+## Logistic Regression Reveals Factors that Increase or Decrease Outcomes.
 
 **Overview** </br>
 The goal of this project was to take a look at potential methods for determining student graduation or dropout. The data source highlights a year snapshot of students enrolled at the Polytechnic Institute of Portalegre, Portugal (see below for details). There are other methods than those proposed in the current state of this notebook, and at current, the output is early phase. 
