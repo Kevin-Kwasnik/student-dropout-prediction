@@ -2,7 +2,28 @@
 
 #### Logistic Regression Reveals Factors that Increase or Decrease Outcomes.
 
-![OddsRatios](1.Data/oddsratio.png)
+**Overview** </br>
+The goal of this project was to take a look at potential methods for determining student graduation or dropout. The data source highlights a year snapshot of students enrolled at the Polytechnic Institute of Portalegre, Portugal (see below for details). There are other methods than those proposed in the current state of this notebook, and at current, the output is early phase. 
+</br>
+</br>
+
+**General Method** </br>
+The data has three categories: Enrolled, Drop out, Graduate. The data was filtered to compare Drop out to Graduate, and the outcome of the Enrolled group was predicted with the outcome of the model. I opted for a simple Logist Regression model to start to emphasize the explainabilty present in Odds Ratios (see below for the outputs.). Some work was required to emphasize the explainability by putting Odds Ratios in the independent variable's original scale.
+
+</br>
+</br>
+
+**To do:** </br>
+Test other models and validate, and the initial insights need validation. Some feature engineering could be done to manipulate curricular approvals and enrollments in the given dataset, though, this is likely a characteristic of this dataset. The goal is to catch a student likely of dropping out before they've already failed to enroll in 2nd semester courses, so heading down the road of non curricular activity for this is likely more fruitful.
+</br>
+</br>
+
+**Current Model Results**
+![CFMatrix](1.Data\Images\cfmatrix.png)
+
+![FeatureImportance](1.Data\Images\featureimportance.png)
+
+![OddsRatios](1.Data\Images\oddsratio.png)
 
 - An OR greater than 1 indicates that the predictor variable increases the odds of the outcome. The higher the OR, the stronger the association. For example, an OR of 3 means that individuals with the specific level of the predictor are 3 times more likely to experience the outcome compared to those without it.​
 
