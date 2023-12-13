@@ -22,11 +22,12 @@ Test other models and validate, and the initial insights need validation. Some f
 </br>
 </br>
 
-![CFMatrix](.\1.Data\Images\cfmatrix.png)
+![CFMatrix](./1.Data/Images/cfmatrix.png)
 
-![FeatureImportance](.\1.Data\Images\featureimportance.png)
+![FeatureImportance](./1.Data/Images/featureimportance.png)
 
-![OddsRatios](.\1.Data\Images\oddsratio.png)
+![OddsRatios](./1.Data/Images/oddsratio.png)
+
 
 - An OR greater than 1 indicates that the predictor variable increases the odds of the outcome. The higher the OR, the stronger the association. For example, an OR of 3 means that individuals with the specific level of the predictor are 3 times more likely to experience the outcome compared to those without it.​
 
